@@ -1,8 +1,8 @@
 # Cheggbog
 
-## Repo: https://github.com/bhackel/cheggbog
+## Repo: [https://github.com/bhackel/cheggbog](https://github.com/bhackel/cheggbog)
 
-### Telegram version: https://github.com/bhackel/cheggbog-telegram
+### Telegram version: [https://github.com/bhackel/cheggbog-telegram](https://github.com/bhackel/cheggbog-telegram)
 
 ## General
 
