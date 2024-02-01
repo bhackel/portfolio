@@ -1,8 +1,8 @@
 # Cheggbog
 
-## Repo: [https://github.com/bhackel/cheggbog](https://github.com/bhackel/cheggbog)
+## Repo: [github.com/bhackel/cheggbog](https://github.com/bhackel/cheggbog)
 
-### Telegram version: [https://github.com/bhackel/cheggbog-telegram](https://github.com/bhackel/cheggbog-telegram)
+### Telegram version: [github.com/bhackel/cheggbog-telegram](https://github.com/bhackel/cheggbog-telegram)
 
 ## General
 
@@ -22,7 +22,7 @@ In order to fix this problem, I decided to look at the process from a different 
 
 Therefore, the next and current solution was to run the bot in a virtual machine, with access to a regular Chrome browser
 
-![Cheggbog Virtual Machine](images/cheggbog%201.png)
+![Cheggbog Virtual Machine](images/cheggbog%201.jpg)
 
 To automate it, the bot would do the following
 
@@ -33,6 +33,6 @@ To automate it, the bot would do the following
 5. Save the image
 6. Send the image back to the user
 
-![Cheggbog discord](images/cheggbog%202.png)
+![Cheggbog discord](images/cheggbog%202.jpg)
 
 This way, the bot avoids detection by Chegg.

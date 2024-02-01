@@ -2,6 +2,8 @@
 
 ## Video Demo: [Google Drive](https://drive.google.com/file/d/1vNHQEFpQ-9MaybYsJ5he-neDewF23Xwy/view?usp=sharing)
 
+## Code: [github.com/bhackel/pentaglove](https://github.com/bhackel/pentaglove)
+
 This was a group project where we designed and built an Arduino-connected glove that would assist a user with drawing commands.
 
 The glove holds an Arduino Nano 33 BLE on top, mounted simply with tape. The Arduino is powered over USB by a battery bank.

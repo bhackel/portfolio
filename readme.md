@@ -16,14 +16,14 @@ This is a project with the goal of making a very compact and discrete battery-po
 This project is a Bluetooth-connected glove that makes taking notes easier by assigning drawing shortcuts to hand gestures.
 See details [here](pentaglove.md)
 
-![Glove and Laptop](images/Glove%20Demo.png)
+![Glove and Laptop](images/Glove%20Demo.jpg)
 
 
 ## [Cheggbog](cheggbog.md)
 Cheggbog is a fully automated discord bot for scraping Chegg links.
 See details [here](cheggbog.md)
 
-![Cheggbog Virtual Machine](images/cheggbog%201.png)
+![Cheggbog Virtual Machine](images/cheggbog%201.jpg)
 
 
 
