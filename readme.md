@@ -11,6 +11,12 @@ This is a project with the goal of making a very compact and discrete battery-po
 ![CO2 Monitor Final](images/CO2%20Monitor.jpg)
 
 
+## [Automated Homework Grading System](dsc20-style-checker.md)
+I tutor for an introductory Python programming class. This project reduced the grading time of homework by around 90% by eliminating the need for tutors to manually grade coding style. See details [here](dsc20-style-checker.md)
+
+![Gradescope Style Checker](images/style%20checker%20gradescope.png)
+
+
 ## [Bluetooth Drawing Glove](pentaglove.md)
 
 This project is a Bluetooth-connected glove that makes taking notes easier by assigning drawing shortcuts to hand gestures.
