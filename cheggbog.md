@@ -26,7 +26,7 @@ Therefore, the next and current solution was to run the bot in a virtual machine
 
 To automate it, the bot would do the following
 
-1. Open the given link in CHrome
+1. Open the given link in Chrome
 2. Wait for page to load
 3. Format the page nicely using Javascript
 4. Take a screenshot of the whole page

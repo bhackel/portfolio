@@ -17,12 +17,15 @@ I tutor for an introductory Python programming class. This project reduced the g
 ![Gradescope Style Checker](images/style%20checker%20gradescope.png)
 
 
-## [Bluetooth Drawing Glove](pentaglove.md)
-
+## [Bluetooth Drawing Glove](pentaglove.md) 
 This project is a Bluetooth-connected glove that makes taking notes easier by assigning drawing shortcuts to hand gestures.
 See details [here](pentaglove.md)
 
 ![Glove and Laptop](images/Glove%20Demo.jpg)
+
+
+## [Recipe Generator (Agile Development)](recipe-generator.md)
+This class project was a simulation of working with other people on coding a Recipe Generator app. We followed Agile software development principles with stand-up meetings, code review, pair programming, and other concepts. See details [here](recipe-generator.md)
 
 
 ## [Cheggbog](cheggbog.md)
