@@ -5,16 +5,20 @@ This repo contains documentation/links to all relevant projects that I have work
 The purpose of this repo is to make it easier for employers to view my work.
 
 
+## [Automated Homework Grading System](dsc20-style-checker.md)
+I tutor for an introductory Python programming class. This project reduced the grading time of homework by around 90% by eliminating the need for tutors to manually grade coding style. See details [here](dsc20-style-checker.md)
+
+![Gradescope Style Checker](images/style%20checker%20gradescope.png)
+
+
 ## [portable-co2-monitor](https://github.com/bhackel/portable-co2-monitor)
 This is a project with the goal of making a very compact and discrete battery-powered bluetooth CO2 monitor. You can view the documentation for it [here](https://github.com/bhackel/portable-co2-monitor)
 
 ![CO2 Monitor Final](images/CO2%20Monitor.jpg)
 
 
-## [Automated Homework Grading System](dsc20-style-checker.md)
-I tutor for an introductory Python programming class. This project reduced the grading time of homework by around 90% by eliminating the need for tutors to manually grade coding style. See details [here](dsc20-style-checker.md)
+## [Gym Tracker Project](cse191.md)
 
-![Gradescope Style Checker](images/style%20checker%20gradescope.png)
 
 
 ## [Bluetooth Drawing Glove](pentaglove.md) 
@@ -26,6 +30,8 @@ See details [here](pentaglove.md)
 
 ## [Recipe Generator (Agile Development)](recipe-generator.md)
 This class project was a simulation of working with other people on coding a Recipe Generator app. We followed Agile software development principles with stand-up meetings, code review, pair programming, and other concepts. See details [here](recipe-generator.md)
+
+![Pull Requests](images/cse110%20pull%20requests.png)
 
 
 ## [Cheggbog](cheggbog.md)
