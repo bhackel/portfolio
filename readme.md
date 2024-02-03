@@ -12,14 +12,16 @@ I tutor for an introductory Python programming class. This project reduced the g
 
 
 ## [portable-co2-monitor](https://github.com/bhackel/portable-co2-monitor)
-This is a project with the goal of making a very compact and discrete battery-powered bluetooth CO2 monitor. You can view the documentation for it [here](https://github.com/bhackel/portable-co2-monitor)
+This is a project with the goal of making a very compact and discreet battery-powered Bluetooth CO2 monitor. You can view the documentation for it [here](https://github.com/bhackel/portable-co2-monitor)
 
 ![CO2 Monitor Final](images/CO2%20Monitor.jpg)
 
 
 ## [Gym Tracker Project](cse191.md)
 
+This class project involved placing around 25 ESP32 microcontrollers in various places at the school gym to determine which locations were most active. We used Bluetooth Low Energy MAC addresses and RSSI values to determine distance from the device. See details [here](cse191.md)
 
+![ESP32](images/cse191esp.jpg)
 
 ## [Bluetooth Drawing Glove](pentaglove.md) 
 This project is a Bluetooth-connected glove that makes taking notes easier by assigning drawing shortcuts to hand gestures.
