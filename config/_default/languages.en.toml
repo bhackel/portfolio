@@ -10,8 +10,4 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "A collection of my projects"
-
-[params.author]
-headline = "Hi there, I'm Bryce. This is a place to show off a mix of my personal projects, along with school and internship work. I focus on a mix of useful, cool, and weird projects that I find interesting."
-name = "Bryce Hackel"
-image = "Profile Picture 3.png"
+author = { headline = "Hi there, I'm Bryce. This is a place to show off a mix of my personal projects, along with school and internship work. I focus on a mix of useful, cool, and weird projects that I find interesting.", name = "Bryce Hackel", image = "Profile Picture 3.png", links = [ { github = "https://github.com/bhackel" }, { linkedin = "https://linkedin.com/in/bryce-hackel" }, { youtube = "https://www.youtube.com/@bhackel" } ] }
