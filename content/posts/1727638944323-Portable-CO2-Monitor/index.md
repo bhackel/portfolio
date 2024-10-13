@@ -4,6 +4,8 @@ date: 2024-02-09
 draft: false
 description: "A portable CO2 Monitor project with accompanying iOS app for detecting excess CO2"
 tags: ["python", "arduino", "bluetooth", "swift", "systems engineering"]
+series: ["Portable CO2 Monitor"]
+series_order: 1
 ---
 
 # portable-co2-monitor

@@ -1,6 +1,6 @@
 ---
 title: "Intern 2024 - Boston Scientific"
-date: 2024-10-12
+date: 2024-10-10
 draft: false
 description: "My internship at Boston Scientific"
 tags: []
