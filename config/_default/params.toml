@@ -8,7 +8,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
-defaultBackgroundImage = "macOS-Catalina-Light-mode.jpg"
+defaultBackgroundImage = "IMG_1944.jpg"
 
 [header]
 layout = "basic"
@@ -21,7 +21,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = true
 showRecentItems = "9"
 showMoreLink = true
@@ -29,6 +29,7 @@ showMoreLinkDest = "/posts/"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
+homepageImage = "IMG_1944.jpg"
 
 [article]
 showDate = true
