@@ -18,7 +18,7 @@ Low-Cost Automated Portable Water Softener project using valves, relays, a pump,
 
 ## Introduction
 
-Back in December 2023, I bought an *On The Go* Portable Water Softener for my shower, as San Diego water is quite hard compared to where I grew up. I purchased the Double Standard 16,000 grain unit for ~$200 and connected it to the shower plumbing. The unit worked great, but because of the small size, it **requires manual regeneration every ~2 weeks**, a process which takes about an hour. Then, when I took an embedded project, I had the idea to automate it as my project.
+Back in December 2023, I bought an *On The Go* Portable Water Softener for my shower, as San Diego water is quite hard compared to where I grew up. I purchased the Double Standard 16,000 grain unit for ~$200 and connected it to the shower plumbing. The unit worked great, but because of the small size, it **requires manual regeneration every ~2 weeks**, a process which takes about an hour. Then, when I took an embedded systems class, I had the idea to automate it as my final project.
 
 ## Iterations
 
@@ -42,13 +42,13 @@ Back in December 2023, I bought an *On The Go* Portable Water Softener for my sh
 
 ![3 Step GIF](Images/Water%20Softener%20Automation/water_softener_automation.gif)
 
-The water softener regeneration process can be broken down into 3 main steps. The first is filling the brine bucket. This provides water, which is immediately mixed with salt (two 26oz salt containers)
+The water softener regeneration process can be broken down into 3 main steps. The first is filling the brine bucket with water, which is immediately mixed with salt (two 26oz salt containers).
 
 ![Pouring Salt](Images/Pouring%20salt.jpeg)
 
-Once the brink tank is full, the cycling step begins. This involves circulating the salt water around in a loop using a pump. This process replaces the hard calcium and magnesium ions with sodium ions.
+Once the brine tank is full, the cycling step begins. This involves circulating the salt water around in a loop using a pump. This process replaces the hard calcium and magnesium ions with sodium ions.
 
-The final step is flushing out the remaining calcium, magnesium, and sodium ions in the water, in addition to draining the bucket.
+The final step is flushing out the remaining calcium, magnesium, and sodium ions, while also draining the bucket.
 
 ### Sensors
 
@@ -74,7 +74,7 @@ To control water flow, three separate items are used. The first is a Normally-Op
 
 For example, I would flash a small OneWire test program onto the Nano, and it would work flawlessly. I could then upload my own Water Softener program onto the Nano and still successfully read temperature values. However, if I were to then hardware reset the device, the OneWire would stop working.
 
-I fixed this by digging through the source code and adding a PlatformIO flag in platformio.ini: `build_flags = -DBOARD_USES_HW_GPIO_NUMBERS`
+I fixed this by digging through the source code and adding a PlatformIO flag to the platformio.ini file: `build_flags = -DBOARD_USES_HW_GPIO_NUMBERS`
 
 **BLE Polling:** On the firmware side, the lack of a RTOS means that BLE must be refreshed using the `BLE.poll()` method every ~20ms. This meant restructuring parts of the code to be non-blocking using state machines.
 
@@ -82,7 +82,7 @@ I fixed this by digging through the source code and adding a PlatformIO flag in 
 
 Future goals include redirecting waste water to a toilet reservoir, improving salt dissolving in the brine tank, and automating salt addition.
 
-Other features I would prefer would be using USB-C PD to get 12V power instead of the massive external power supply that the current design uses. 
+Another feature I would like to add is USB-C PD to get 12V power instead of the massive external power supply that the current design uses.
 
 
 

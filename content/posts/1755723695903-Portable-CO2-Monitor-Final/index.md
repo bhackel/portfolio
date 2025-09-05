@@ -1,5 +1,5 @@
 ---
-title: "Portable-CO2-Monitor-Final"
+title: "Portable CO2 Monitor: Final"
 date: 2025-02-16
 draft: false
 description: "a description"
