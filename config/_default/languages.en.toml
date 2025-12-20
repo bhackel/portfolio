@@ -10,4 +10,4 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "A collection of my projects"
-author = { headline = "Hi there, I'm Bryce. I develop a mix of weird and useful projects, all visible here.", name = "Bryce Hackel", image = "Profile Picture 3.png", links = [ { github = "https://github.com/bhackel" }, { linkedin = "https://linkedin.com/in/bryce-hackel" }, { youtube = "https://www.youtube.com/@bhackel" } ] }
+author = { headline = "Robotics / Healthcare / Automation", name = "Bryce Hackel", image = "Profile Picture 3.png", links = [ { github = "https://github.com/bhackel" }, { linkedin = "https://linkedin.com/in/bryce-hackel" }, { youtube = "https://www.youtube.com/@bhackel" } ] }
