@@ -10,6 +10,15 @@ tags: ["robotics", "3d printing"]
 
 # ARCTOS 6-DOF 3D-Printed Robotic Arm Assembly
 
+![Arm with AmazingHand attached](media/IMG_5834.gif)
+
+<video controls width="100%">
+    <source src="media/IMG_5838_compressed.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+### Base Arm Build Process
+
 During the summer, I took over assembly and electrical
 wiring work for my friend's robotic arm project. The
 following article describes the month-long process of
@@ -93,3 +102,7 @@ One unsolved problem is the C cycloidal gearbox making crunching sounds when run
 ![Outside](media/IMG_5053.jpeg)
 
 As I finished before class started, we used the robot for club tabling to attract new members. Yay
+
+### AmazingHand
+
+More info to come about the AmazingHand and the full integration with the arm.
