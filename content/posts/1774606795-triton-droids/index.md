@@ -1,6 +1,6 @@
 ---
-title: "triton-droids"
-date: 2026-03-27
+title: "Triton Droids Electrical Lead"
+date: 2026-02-01
 draft: false
 description: "Triton Droids is the largest humanoid robotics club at UC San Diego"
 ---
