@@ -33,8 +33,8 @@ homepageImage = "IMG_1944.jpg"
 
 [article]
 showDate = true
-showViews = false
-showLikes = false
+showViews = true
+showLikes = true
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
@@ -95,6 +95,13 @@ cardView = false
 cardViewScreenWidth = false
 
 [firebase]
+  apiKey = "AIzaSyAXaxGNozO6krfKtr2-2FfNuc9Tf_7DuKM"
+  authDomain = "portfolio-6821d.firebaseapp.com"
+  projectId = "portfolio-6821d"
+  storageBucket = "portfolio-6821d.firebasestorage.app"
+  messagingSenderId = "718530277926"
+  appId = "1:718530277926:web:ce038714abb53b56caace7"
+  measurementId = "G-H7X8D5V314"
 
 [fathomAnalytics]
 
