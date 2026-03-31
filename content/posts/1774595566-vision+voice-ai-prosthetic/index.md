@@ -34,7 +34,7 @@ The AmazingHand is a 8-DOF 4-finger robotic hand with 8 Feetech SCS0009 servos.
 
 ![Back of hand showing servos](<media/back view.jpeg>)
 
-I modified the palm plate to fit a XIAO ESP32 Sense: [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html), which provides a camera, microphone, WiFi, and BLE in a tiny low-cost package.
+I modified the palm plate to fit a [XIAO ESP32S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html), which provides a camera, microphone, WiFi, and BLE in a tiny low-cost package.
 
 ![XIAO ESP32S3 Sense camera module](<media/xiao esp32 sense.jpeg>)
 
