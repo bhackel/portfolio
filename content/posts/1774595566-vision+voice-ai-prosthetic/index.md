@@ -18,6 +18,8 @@ description: "Proof-of-concept of adding vision plus voice input to a prosthetic
 
 This project is a proof-of-concept of what adding both vision and voice input to a prosthetic could enable for advanced control.
 
+GitHub: [Vision-Voice-Prosthetic](https://github.com/bhackel/Vision-Voice-Prosthetic)
+
 ## Existing Research
 
 Current research has already done automatic grasp selection using vision: [PMC5325038](https://pmc.ncbi.nlm.nih.gov/articles/PMC5325038/). Other research has used vision with EMG trigger for prosthetic grasp selection: [frobt.2024.1312554](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1312554/full). Other research has targeted robotic arms for LLM-based grasp selection: [arXiv:2310.05239](https://arxiv.org/html/2310.05239v1). **However no project combines all methods into a Vision+Language EMG-triggered prosthetic project**.
