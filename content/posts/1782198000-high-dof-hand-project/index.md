@@ -1,7 +1,7 @@
 ---
 title: "(WIP) Low-cost High-DoF Hand"
 date: 2026-06-23
-draft: true
+draft: false
 description: ""
 ---
 
