@@ -36,6 +36,10 @@ Below is a rough CAD of what that consists of. The first gear connecting the DC 
 
 ![Reorienting the DC motor 90 degrees](media/motor-reorient.png)
 
+![Resin print (left) vs FDM print on the X1C (right)](media/print-comparison.jpg)
+
+These gears have extremely tiny teeth, which means cheap FDM printing unfortunately cannot be used. Resin printing is necessary to get the fine details of the gear teeth for good gear meshing, especially at the high expected speeds.
+
 
 ### Some unsorted pictures
 
